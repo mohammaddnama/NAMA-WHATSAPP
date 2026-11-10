@@ -1,1 +1,1 @@
-print("nama whatsapp ai started
+print("nama whatsapp ai started")
